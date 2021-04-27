@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Hello, and welcome to Glitch
+# Hello, and welcome to Glitch!
 This is a basic HTML starter project you can build on however you like. No need to save. While you develop your site, your changes will happen 🪄 immediately in the preview window. You can upload assets like images or audio in `assets` to the left. Stylesheets and JavaScript live in the `public` folder. The rest is up to you and your imagination.
 
 
@@ -22,6 +21,3 @@ This is a basic HTML starter project you can build on however you like. No need 
 
 - Need more help? [Check out our Help Center](https://help.glitch.com/) for answers to any common questions.
 - Ready to make it official? [Become a paid Glitch member](https://glitch.com/pricing) to boost your app with private sharing, more storage and memory, domains and more.
-=======
-# student-gallery
->>>>>>> 2518ad7841d1fe7ad9b40331d02f7770f4a8c3f1
